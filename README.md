@@ -1,4 +1,4 @@
-## Hi, I'm Bernardo — most people call me Berni 👋
+## Hi, I'm Bernardo — most people call me Berni 
 
 AI & Data Science student at **Universidade da Beira Interior**, Portugal (2nd year).
 Heading toward **AI product management**, with a strong pull toward robotics.
@@ -11,7 +11,7 @@ explain what the code actually does.
 
 - **Machine learning from scratch** — linear and logistic regression with gradient
   descent, no ML libraries, on 6 000+ Airbnb listings.
-  → [projeto1_ml_a55903](https://github.com/bernardonabais/projeto1_ml_a55903)
+  → [airbnb-price-ml](https://github.com/bernardonabais/projeto1_ml_a55903)
 - **Computer vision for robotics** — colour and face detection with OpenCV, as
   groundwork for a small humanoid robot project.
 - **Web and automation** — multi-page sites for real clients, plus workflow
